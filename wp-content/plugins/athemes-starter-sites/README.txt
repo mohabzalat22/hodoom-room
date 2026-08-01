@@ -1,0 +1,206 @@
+=== aThemes Starter Sites ===
+Tags: athemes, elementor, demos, import, sites
+Requires at least: 4.0
+Tested up to: 7.0
+Requires PHP: 5.4
+Stable tag: 1.4.1
+Contributors: aThemes
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+We've got a full and ever-growing library stocked with ready-made templates for any kind of business.
+
+== Description ==
+
+== ATHEMES STARTER SITES ==
+
+Business owners, freelancers, Online Store Owners, and creatives: get ready to build and launch an awesome website in no-time, all by yourself! With our aThemes Starter Sites plugin, you can take your pick from plenty of starter sites, such as business, portfolio, and e-commerce. Then get creative and customize it to match your branding, all without writing a single line of code. Select the demo that suits your needs, import, tweak, and go live!
+
+= Pick your website template =
+
+We've got a full and ever-growing library stocked with ready-made templates for any kind of business.
+
+= Add your own awesome content =
+
+Add your own text, photos, videos, vector art, and more is a breeze by Gutenberg, Elementor, and different website builders.
+
+= Customize your site =
+
+Make your starter site really yours. Tweak your site with different fonts, color palettes, and more to fit your style.
+
+= Let's go live =
+
+Ready to grow your business with a website that stands out from the crowd? Publish your page in just a few clicks.
+
+**Happy Building!**
+
+= LIST OF STARTER SITES TO IMPORT =
+
+* [Sydney Starters Sites](https://athemes.com/sydney-demos/)
+* [Airi Starters Sites](https://athemes.com/airi-demos/)
+* [Botiga](https://athemes.com/theme/botiga/)
+
+== Frequently Asked Questions ==
+
+= Will this Starter Site plugin work with my theme? =
+
+The starter sites are built using Sydney, Botiga and Airi. We suggest picking your favourite and using that.
+
+= Are there any FREE starter sites? =
+
+You will get several FREE pre-made websites. There are many more premium starters that can be accessed when you purchase our PRO version.
+
+= Can I import a starter site on an existing website? =
+
+It is recommended to install and import a website demo on a fresh WordPress installation or a blank website to avoid overriding settings and page design. However, a page template can be imported on an existing website as well.
+
+= Do I need to install any other plugin before importing a starter site? =
+
+All you need to do is install the Starter Sites plugin and select the website demo you wish to import. This step will install and activate the necessary plugins.
+
+= Will you add more starter sites? =
+
+Yes, of course! We are working on many more free and pro starter demos.
+
+== Installation ==
+
+Go to Plugins > Add New and search for aThemes Starter Sites. Install and activate it.
+
+== Changelog ==
+= 1.4.1 =
+* Added - New Botiga Pet Shop starter site with Gutenberg and Elementor support.
+
+= 1.4.0 =
+* Added - Support for the WordPress Abilities API: new list-sites and import-site abilities enable listing and importing starter sites programmatically (disabled by default, enabled per theme).
+
+= 1.3.1 =
+* Fixed - Corrected the live preview URLs for the Walkathon, Pet Shop, and Barbershop starter sites so the Customize step preview loads the correct demo.
+
+= 1.3.0 =
+* Added - Three new Sydney starter sites: Walkathon (charity, requires Charitable), Pet Shop (WooCommerce), and Barbershop, with updated demo ordering.
+
+= 1.2.0 =
+* Changed - Updated the onboarding wizard recommended features to include SEO, privacy compliance, and backup recommendations.
+
+= 1.1.9 =
+* Changed - Updated the Botiga onboarding v2 flow with follow-up improvements for the Pages, Features, and Import steps.
+* Fixed - WPForms Lite pre-selection now follows the Contact page selection during the initial recommendation flow, while still respecting manual user changes afterward.
+* Fixed - Improved WooCommerce utility page previews in the Pages step so Cart, Checkout, and My Account load correctly inside the onboarding iframe.
+* Fixed - Added seeded Cart and Checkout preview support during onboarding, making the preview flow closer to a real store setup.
+* Fixed - Improved the My Account onboarding preview by allowing it to load correctly inside the iframe.
+* Fixed - Polished several onboarding UI details, including welcome icon alignment, reset/font tooltips, My Account preview labeling, loading screen behavior, and completion page button handling.
+* Removed - Drip client-side script from the onboarding wizard.
+* Added - Lindris email opt-in support through the WordPress proxy endpoint, keeping API credentials server-side and updating the import flow tests for the new subscription behavior.
+
+= 1.1.8 =
+* Onboarding wizard support for Botiga
+* Skip/Continue flow for the Design step (no-starter wizard path)
+* Fix: customize upsell displaying for pro users
+* Fix: default theme fallback when themeName is undefined in preview image URL
+
+= 1.1.6 =
+* Onboarding wizard support for Sydney
+* Missing Elementor media urls fix
+
+= 1.1.3 =
+* Improve content and widget import process
+
+= 1.1.2 =
+* Activate testimonials widget and assign footer menus properly
+
+= 1.1.1 =
+* Fix minor issues
+
+= 1.1.0 =
+* Gutenberg support for Sydney starters
+
+= 1.1.0 =
+* Gutenberg support for Sydney starters
+
+= 1.0.59 =
+* Added demo Handbags to Botiga Pro
+
+= 1.0.58 =
+* Improved UTM source tracking.
+
+= 1.0.57 =
+* Fixes to Sydney Pro customizer file names
+
+= 1.0.56 =
+* Added demo Fashion to Botiga
+
+= 1.0.52 =
+* Improved images url's replacing implementation
+
+= 1.0.51 =
+* Improved images url's replacing implementation
+
+= 1.0.48 =
+* Added Merchant plugin to Botiga starters
+
+= 1.0.45 =
+* New starter site added for Botiga Pro
+
+= 1.0.40 =
+* Elementor containers notice
+
+= 1.0.39 =
+* New starter site added for Sydney Pro
+
+= 1.0.37 =
+* Fixes for Sydney import process
+* New starter site added for Botiga Pro
+
+= 1.0.36 =
+* Sydney and Sydney Pro added to v2
+* Two new starter sites for Sydney Pro
+
+= 1.0.35 =
+* Deprecated 'get_page_by_title' function replaced.
+* Fixed scripts being loaded on unecessary admin pages.
+
+= 1.0.34 =
+* New starter site added for Sydney Pro
+
+= 1.0.33 =
+* New starter site added for Botiga Pro
+
+= 1.0.32 =
+* New starter site added for Botiga Pro
+
+= 1.0.31 =
+* New starter site added for Sydney Pro
+
+= 1.0.30 =
+* New Botiga import workflow
+* New starter site added for Botiga Pro
+
+= 1.0.28 =
+* Notice removed
+
+= 1.0.26 =
+* Added a notice
+
+= 1.0.25 =
+* Removed outdated starter sites from Sydney Pro
+
+= 1.0.24 =
+* New starter site added for Botiga Pro
+
+= 1.0.22 =
+* New starter site added for Botiga Pro
+
+= 1.0.20 =
+* WooCommerce added as required plugin to Sydney Pro Cafe starter
+
+= 1.0.19 =
+* New starter site added for Sydney Pro
+
+= 1.0.18 =
+* New starter site added for Sydney Pro
+
+= 1.0.17 =
+* New starter site added for Botiga Pro
+
+= 1.0.15 =
+* New starter sites added for Sydney and Sydney Pro

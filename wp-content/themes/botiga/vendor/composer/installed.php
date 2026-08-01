@@ -1,0 +1,41 @@
+<?php return array(
+    'root' => array(
+        'name' => 'athemes/botiga',
+        'pretty_version' => 'v2.4.7',
+        'version' => '2.4.7.0',
+        'reference' => '5134c9062d1bfee0c58678ef0177fee775933303',
+        'type' => 'library',
+        'install_path' => __DIR__ . '/../../',
+        'aliases' => array(),
+        'dev' => false,
+    ),
+    'versions' => array(
+        'athemes/botiga' => array(
+            'pretty_version' => 'v2.4.7',
+            'version' => '2.4.7.0',
+            'reference' => '5134c9062d1bfee0c58678ef0177fee775933303',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../../',
+            'aliases' => array(),
+            'dev_requirement' => false,
+        ),
+        'woocommerce/action-scheduler' => array(
+            'pretty_version' => '3.9.3',
+            'version' => '3.9.3.0',
+            'reference' => 'c58cdbab17651303d406cd3b22cf9d75c71c986c',
+            'type' => 'wordpress-plugin',
+            'install_path' => __DIR__ . '/../woocommerce/action-scheduler',
+            'aliases' => array(),
+            'dev_requirement' => false,
+        ),
+        'wptt/webfont-loader' => array(
+            'pretty_version' => 'v1.1.3',
+            'version' => '1.1.3.0',
+            'reference' => '19fa29ba8d82bed018fb8c6f949799739c61356c',
+            'type' => 'package',
+            'install_path' => __DIR__ . '/../wptt/webfont-loader',
+            'aliases' => array(),
+            'dev_requirement' => false,
+        ),
+    ),
+);

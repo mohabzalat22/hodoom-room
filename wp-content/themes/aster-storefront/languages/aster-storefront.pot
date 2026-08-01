@@ -1,0 +1,2194 @@
+# Copyright (C) 2026 asterthemes
+# This file is distributed under the GNU General Public License v3 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Aster Storefront 5.3\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/aster-storefront\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-03-20T16:20:52+05:30\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.12.0\n"
+"X-Domain: aster-storefront\n"
+
+#. Theme Name of the theme
+#: style.css
+msgid "Aster Storefront"
+msgstr ""
+
+#. Theme URI of the theme
+#: style.css
+#: theme-library/function-files/template-functions.php:317
+msgid "https://asterthemes.com/products/free-storefront-wordpress-theme"
+msgstr ""
+
+#. Description of the theme
+#: style.css
+msgid "Aster Storefront is a pre-built website template designed specifically for online stores, e-commerce websites, and anyone looking to start an online shop. Whether you're selling fashion, electronics, accessories, gadgets, or home goods, this responsive design ensures a smooth experience for both you and your customers. Retail owners can take advantage of this user-friendly platform to create and launch their online store quickly without any coding knowledge. The theme is perfect for businesses in the consumer goods, apparel, lifestyle, boutique, and merchandise industries, offering a clean, modern design that helps highlight your products, categories, and promotions. With WooCommerce integration, this theme transforms your website into a fully functioning e-commerce site, enabling easy management of payment gateways, inventory, and orders. The product pages allow for detailed displays of images, prices, and specifications, enhancing the shopping experience for your customers. Aster Storefront also ensures your site is cross-browser compatible and optimized for all devices, making it accessible on desktops, tablets, and smartphones. Its customization options let you tailor your website’s design to match your unique brand identity, whether you're a small boutique or a larger e-commerce business. With professional support available, setting up your online store is seamless and hassle-free. This e-commerce solution provides everything you need to succeed in the competitive online shopping world, from product management to marketing and customer engagement."
+msgstr ""
+
+#. Author of the theme
+#: style.css
+msgid "asterthemes"
+msgstr ""
+
+#. Author URI of the theme
+#: style.css
+msgid "https://asterthemes.com"
+msgstr ""
+
+#. translators: 1: title.
+#: comments.php:26
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:32
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:59
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:67
+#: theme-library/customizer/theme-options/single-post-options.php:152
+msgid "Leave a Reply"
+msgstr ""
+
+#: functions.php:67
+msgid "https://asterthemes.com/products/storefront-wordpress-theme"
+msgstr ""
+
+#: functions.php:70
+msgid "https://asterthemes.com/products/aster-storefront"
+msgstr ""
+
+#: functions.php:73
+msgid "https://wordpress.org/support/theme/aster-storefront/"
+msgstr ""
+
+#: functions.php:76
+msgid "https://wordpress.org/support/theme/aster-storefront/reviews/"
+msgstr ""
+
+#: functions.php:79
+msgid "https://demo.asterthemes.com/aster-storefront/"
+msgstr ""
+
+#: functions.php:82
+msgid "https://demo.asterthemes.com/docs/aster-storefront-free/"
+msgstr ""
+
+#: functions.php:85
+msgid "https://demo.asterthemes.com/docs/storefront-wordpress-theme-pro/"
+msgstr ""
+
+#: functions.php:88
+msgid "https://asterthemes.com/products/wp-theme-bundle"
+msgstr ""
+
+#: functions.php:113
+msgid "Primary"
+msgstr ""
+
+#: functions.php:179
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:181
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:192
+msgid "Footer  "
+msgstr ""
+
+#: functions.php:194
+msgid "The Footer Widget Area"
+msgstr ""
+
+#: header.php:30
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:39
+msgid "Loading..."
+msgstr ""
+
+#: header.php:77
+msgid "Search for:"
+msgstr ""
+
+#: header.php:132
+msgid "My Account"
+msgstr ""
+
+#: header.php:135
+msgid "Login / Register"
+msgstr ""
+
+#: header.php:140
+msgid "View Shopping Cart"
+msgstr ""
+
+#: sidebar.php:21
+msgid "Search"
+msgstr ""
+
+#: sidebar.php:25
+#: theme-library/function-files/class-breadcrumb-trail.php:252
+msgid "Archives"
+msgstr ""
+
+#: sidebar.php:36
+msgid "Categories"
+msgstr ""
+
+#: sidebar.php:48
+msgid "Tags"
+msgstr ""
+
+#: sidebar.php:64
+#: theme-library/function-files/template-functions.php:448
+msgid "Recent Posts"
+msgstr ""
+
+#: template-parts/content-none.php:15
+msgid "Nothing Found"
+msgstr ""
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:25
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:38
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:45
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:27
+#: template-parts/content-single.php:56
+msgid "Pages:"
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content-page.php:41
+#: theme-library/function-files/template-tags.php:268
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content-single.php:43
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: theme-library/customizer.php:49
+msgid "Aster Storefront Pro"
+msgstr ""
+
+#: theme-library/customizer.php:50
+msgid "Buy Pro"
+msgstr ""
+
+#: theme-library/customizer.php:65
+msgid "Documentation"
+msgstr ""
+
+#: theme-library/customizer.php:66
+msgid "Free Doc"
+msgstr ""
+
+#: theme-library/customizer/colors.php:23
+msgid "Primary Color"
+msgstr ""
+
+#: theme-library/customizer/custom-controls/custom-controls.php:144
+msgid "Reset"
+msgstr ""
+
+#: theme-library/customizer/custom-controls/icon-control.php:26
+msgctxt "placeholder"
+msgid "Search Icon"
+msgstr ""
+
+#: theme-library/customizer/front-page-options.php:12
+msgid "Front Page Options"
+msgstr ""
+
+#: theme-library/customizer/front-page-options/banner.php:13
+#: theme-library/function-files/template-functions.php:179
+msgid "Banner Section"
+msgstr ""
+
+#: theme-library/customizer/front-page-options/banner.php:32
+msgid "Enable Banner Section"
+msgstr ""
+
+#: theme-library/customizer/front-page-options/banner.php:61
+msgid "Select Banner Slider Content Type"
+msgstr ""
+
+#: theme-library/customizer/front-page-options/banner.php:67
+msgid "Page"
+msgstr ""
+
+#: theme-library/customizer/front-page-options/banner.php:68
+msgid "Post"
+msgstr ""
+
+#. translators: %d: Select Post Count.
+#: theme-library/customizer/front-page-options/banner.php:87
+#, php-format
+msgid "Select Post %d"
+msgstr ""
+
+#. translators: %d: Select Page Count.
+#: theme-library/customizer/front-page-options/banner.php:108
+#, php-format
+msgid "Select Page %d"
+msgstr ""
+
+#. translators: %d: Button Label Count.
+#: theme-library/customizer/front-page-options/banner.php:130
+#, php-format
+msgid "Button Label %d"
+msgstr ""
+
+#. translators: %d: Button Link Count.
+#: theme-library/customizer/front-page-options/banner.php:151
+#, php-format
+msgid "Button Link %d"
+msgstr ""
+
+#: theme-library/customizer/front-page-options/trending-product.php:13
+#: theme-library/function-files/template-functions.php:180
+msgid "Trending Product Section"
+msgstr ""
+
+#: theme-library/customizer/front-page-options/trending-product.php:32
+msgid "Enable Trending Product Section"
+msgstr ""
+
+#: theme-library/customizer/front-page-options/trending-product.php:61
+msgid "Heading"
+msgstr ""
+
+#: theme-library/customizer/front-page-options/trending-product.php:102
+msgid "Select category to display products "
+msgstr ""
+
+#: theme-library/customizer/theme-options.php:12
+#: theme-library/getting-started/tabs/help-panel.php:66
+msgid "Theme Options"
+msgstr ""
+
+#: theme-library/customizer/theme-options/404page-customize-setting.php:15
+msgid "404 Page"
+msgstr ""
+
+#: theme-library/customizer/theme-options/404page-customize-setting.php:28
+msgid "404 Page Not Found"
+msgstr ""
+
+#: theme-library/customizer/theme-options/404page-customize-setting.php:37
+msgid "Title"
+msgstr ""
+
+#: theme-library/customizer/theme-options/404page-customize-setting.php:49
+msgid "404 Page Image"
+msgstr ""
+
+#: theme-library/customizer/theme-options/404page-customize-setting.php:61
+msgid "404 Page Title"
+msgstr ""
+
+#: theme-library/customizer/theme-options/404page-customize-setting.php:72
+msgid "404 Page Text"
+msgstr ""
+
+#: theme-library/customizer/theme-options/404page-customize-setting.php:84
+msgid "404 Button Label"
+msgstr ""
+
+#: theme-library/customizer/theme-options/404page-customize-setting.php:95
+msgid "404 Button Link"
+msgstr ""
+
+#: theme-library/customizer/theme-options/excerpt.php:13
+msgid "Excerpt"
+msgstr ""
+
+#: theme-library/customizer/theme-options/excerpt.php:30
+msgid "Excerpt Length (no. of words)"
+msgstr ""
+
+#: theme-library/customizer/theme-options/footer-options.php:13
+msgid "Footer Options"
+msgstr ""
+
+#: theme-library/customizer/theme-options/footer-options.php:23
+msgid "Footer Settings"
+msgstr ""
+
+#: theme-library/customizer/theme-options/footer-options.php:42
+msgid "Show / Hide Footer"
+msgstr ""
+
+#: theme-library/customizer/theme-options/footer-options.php:63
+msgid "Select Widget Column"
+msgstr ""
+
+#: theme-library/customizer/theme-options/footer-options.php:64
+msgid "Note: Default footer widgets are shown. Add your preferred widgets in (Appearance > Widgets > Footer) to see changes."
+msgstr ""
+
+#: theme-library/customizer/theme-options/footer-options.php:69
+#: theme-library/customizer/theme-options/footer-options.php:134
+#: theme-library/customizer/theme-options/theme-options.php:395
+msgid "None"
+msgstr ""
+
+#: theme-library/customizer/theme-options/footer-options.php:70
+msgid "1 Column"
+msgstr ""
+
+#: theme-library/customizer/theme-options/footer-options.php:71
+msgid "2 Column"
+msgstr ""
+
+#: theme-library/customizer/theme-options/footer-options.php:72
+msgid "3 Column"
+msgstr ""
+
+#: theme-library/customizer/theme-options/footer-options.php:73
+msgid "4 Column"
+msgstr ""
+
+#: theme-library/customizer/theme-options/footer-options.php:85
+msgid "Footer Background Color"
+msgstr ""
+
+#: theme-library/customizer/theme-options/footer-options.php:96
+msgid "Footer Background Image"
+msgstr ""
+
+#: theme-library/customizer/theme-options/footer-options.php:113
+msgid "Footer Background Attatchment"
+msgstr ""
+
+#: theme-library/customizer/theme-options/footer-options.php:115
+msgid "fixed"
+msgstr ""
+
+#: theme-library/customizer/theme-options/footer-options.php:116
+msgid "scroll"
+msgstr ""
+
+#: theme-library/customizer/theme-options/footer-options.php:129
+msgid "Footer Text Heading Transform"
+msgstr ""
+
+#: theme-library/customizer/theme-options/footer-options.php:135
+#: theme-library/customizer/theme-options/theme-options.php:396
+msgid "Capitalize"
+msgstr ""
+
+#: theme-library/customizer/theme-options/footer-options.php:136
+#: theme-library/customizer/theme-options/theme-options.php:397
+msgid "Uppercase"
+msgstr ""
+
+#: theme-library/customizer/theme-options/footer-options.php:137
+#: theme-library/customizer/theme-options/theme-options.php:398
+msgid "Lowercase"
+msgstr ""
+
+#: theme-library/customizer/theme-options/footer-options.php:153
+msgid "Footer Heading Alignment "
+msgstr ""
+
+#: theme-library/customizer/theme-options/footer-options.php:158
+#: theme-library/customizer/theme-options/footer-options.php:233
+#: theme-library/customizer/theme-options/woocommerce-setting.php:89
+msgid "Left"
+msgstr ""
+
+#: theme-library/customizer/theme-options/footer-options.php:159
+#: theme-library/customizer/theme-options/footer-options.php:234
+#: theme-library/customizer/theme-options/woocommerce-setting.php:90
+msgid "Right"
+msgstr ""
+
+#: theme-library/customizer/theme-options/footer-options.php:160
+#: theme-library/customizer/theme-options/footer-options.php:235
+msgid "Center"
+msgstr ""
+
+#: theme-library/customizer/theme-options/footer-options.php:171
+msgid "Copyright Settings"
+msgstr ""
+
+#: theme-library/customizer/theme-options/footer-options.php:190
+msgid "Show / Hide Copyright"
+msgstr ""
+
+#: theme-library/customizer/theme-options/footer-options.php:209
+msgid "Copyright Text"
+msgstr ""
+
+#: theme-library/customizer/theme-options/footer-options.php:228
+msgid "Copyright Alignment "
+msgstr ""
+
+#: theme-library/customizer/theme-options/footer-options.php:246
+msgid "Scroll Top Settings"
+msgstr ""
+
+#: theme-library/customizer/theme-options/footer-options.php:265
+msgid "Enable Scroll Top Button"
+msgstr ""
+
+#: theme-library/customizer/theme-options/footer-options.php:285
+msgid "Scroll Top Icon"
+msgstr ""
+
+#: theme-library/customizer/theme-options/footer-options.php:297
+msgid "Scroll Top Button Position"
+msgstr ""
+
+#: theme-library/customizer/theme-options/footer-options.php:302
+msgid "Bottom Right"
+msgstr ""
+
+#: theme-library/customizer/theme-options/footer-options.php:303
+msgid "Bottom Left"
+msgstr ""
+
+#: theme-library/customizer/theme-options/footer-options.php:304
+msgid "Bottom Center"
+msgstr ""
+
+#: theme-library/customizer/theme-options/footer-options.php:314
+msgid "Scroll to Top Button Shape"
+msgstr ""
+
+#: theme-library/customizer/theme-options/footer-options.php:319
+msgid "Box"
+msgstr ""
+
+#: theme-library/customizer/theme-options/footer-options.php:320
+msgid "Curved Box"
+msgstr ""
+
+#: theme-library/customizer/theme-options/footer-options.php:321
+msgid "Circle"
+msgstr ""
+
+#: theme-library/customizer/theme-options/footer-social.php:12
+msgid "Footer Social Icons"
+msgstr ""
+
+#: theme-library/customizer/theme-options/footer-social.php:22
+msgid "Footer Icon Settings"
+msgstr ""
+
+#: theme-library/customizer/theme-options/footer-social.php:41
+msgid "Show / Hide Footer Icon"
+msgstr ""
+
+#: theme-library/customizer/theme-options/footer-social.php:60
+msgid "Facebook Link"
+msgstr ""
+
+#: theme-library/customizer/theme-options/footer-social.php:81
+msgid "Facebook Icon"
+msgstr ""
+
+#: theme-library/customizer/theme-options/footer-social.php:100
+msgid "Twitter Link"
+msgstr ""
+
+#: theme-library/customizer/theme-options/footer-social.php:121
+msgid "Twitter Icon"
+msgstr ""
+
+#: theme-library/customizer/theme-options/footer-social.php:139
+msgid "Instagram Link"
+msgstr ""
+
+#: theme-library/customizer/theme-options/footer-social.php:160
+msgid "Instagram Icon"
+msgstr ""
+
+#: theme-library/customizer/theme-options/footer-social.php:178
+msgid "Linkedin Link"
+msgstr ""
+
+#: theme-library/customizer/theme-options/footer-social.php:199
+msgid "Linkedin Icon"
+msgstr ""
+
+#: theme-library/customizer/theme-options/footer-social.php:217
+msgid "Youtube Link"
+msgstr ""
+
+#: theme-library/customizer/theme-options/footer-social.php:238
+msgid "Youtube Icon"
+msgstr ""
+
+#: theme-library/customizer/theme-options/page-title.php:13
+msgid "Page Title"
+msgstr ""
+
+#: theme-library/customizer/theme-options/page-title.php:30
+msgid "Page Header Visibility"
+msgstr ""
+
+#: theme-library/customizer/theme-options/page-title.php:36
+msgid "Show on all devices"
+msgstr ""
+
+#: theme-library/customizer/theme-options/page-title.php:37
+msgid "Hide on Tablet"
+msgstr ""
+
+#: theme-library/customizer/theme-options/page-title.php:38
+msgid "Hide on Mobile"
+msgstr ""
+
+#: theme-library/customizer/theme-options/page-title.php:39
+msgid "Hide on Tablet & Mobile"
+msgstr ""
+
+#: theme-library/customizer/theme-options/page-title.php:40
+msgid "Hide on all devices"
+msgstr ""
+
+#: theme-library/customizer/theme-options/page-title.php:52
+msgid "Page Title BG Image & Color Setting"
+msgstr ""
+
+#: theme-library/customizer/theme-options/page-title.php:71
+msgid "Page Title Background Image"
+msgstr ""
+
+#: theme-library/customizer/theme-options/page-title.php:83
+msgid "Background Image"
+msgstr ""
+
+#: theme-library/customizer/theme-options/page-title.php:84
+msgid "Choose either a background image or a color. If a background image is selected, the background color will not be visible."
+msgstr ""
+
+#: theme-library/customizer/theme-options/page-title.php:97
+msgid "Image Height"
+msgstr ""
+
+#: theme-library/customizer/theme-options/page-title.php:115
+msgid "Page Title Background Color"
+msgstr ""
+
+#: theme-library/customizer/theme-options/page-title.php:125
+msgid "Set Height"
+msgstr ""
+
+#: theme-library/customizer/theme-options/page-title.php:126
+msgid "This setting controls the page title height when no background image is set. If a background image is set, this setting will not apply."
+msgstr ""
+
+#: theme-library/customizer/theme-options/page-title.php:141
+msgid "Page Title Styling Setting"
+msgstr ""
+
+#: theme-library/customizer/theme-options/page-title.php:153
+msgid "Page Title Heading Tag"
+msgstr ""
+
+#: theme-library/customizer/theme-options/page-title.php:157
+msgid "H1"
+msgstr ""
+
+#: theme-library/customizer/theme-options/page-title.php:158
+msgid "H2"
+msgstr ""
+
+#: theme-library/customizer/theme-options/page-title.php:159
+msgid "H3"
+msgstr ""
+
+#: theme-library/customizer/theme-options/page-title.php:160
+msgid "H4"
+msgstr ""
+
+#: theme-library/customizer/theme-options/page-title.php:161
+msgid "H5"
+msgstr ""
+
+#: theme-library/customizer/theme-options/page-title.php:162
+msgid "H6"
+msgstr ""
+
+#: theme-library/customizer/theme-options/page-title.php:163
+msgid "p"
+msgstr ""
+
+#: theme-library/customizer/theme-options/page-title.php:164
+msgid "a"
+msgstr ""
+
+#: theme-library/customizer/theme-options/page-title.php:165
+msgid "div"
+msgstr ""
+
+#: theme-library/customizer/theme-options/page-title.php:166
+msgid "span"
+msgstr ""
+
+#: theme-library/customizer/theme-options/page-title.php:177
+msgid "Style"
+msgstr ""
+
+#: theme-library/customizer/theme-options/page-title.php:179
+msgid "\"Flex Layout Style\" wont work below 600px (mobile media)"
+msgstr ""
+
+#: theme-library/customizer/theme-options/page-title.php:183
+msgid "Classic"
+msgstr ""
+
+#: theme-library/customizer/theme-options/page-title.php:184
+msgid "Aligned Right"
+msgstr ""
+
+#: theme-library/customizer/theme-options/page-title.php:185
+msgid "Centered Focus"
+msgstr ""
+
+#: theme-library/customizer/theme-options/page-title.php:186
+msgid "Flex Layout"
+msgstr ""
+
+#: theme-library/customizer/theme-options/post-options.php:12
+msgid "Post Options"
+msgstr ""
+
+#: theme-library/customizer/theme-options/post-options.php:31
+msgid "Add Date Icon"
+msgstr ""
+
+#: theme-library/customizer/theme-options/post-options.php:51
+#: theme-library/customizer/theme-options/single-post-options.php:32
+msgid "Show / Hide Date"
+msgstr ""
+
+#: theme-library/customizer/theme-options/post-options.php:71
+msgid "Add Author Icon"
+msgstr ""
+
+#: theme-library/customizer/theme-options/post-options.php:91
+#: theme-library/customizer/theme-options/single-post-options.php:52
+msgid "Show / Hide Author"
+msgstr ""
+
+#: theme-library/customizer/theme-options/post-options.php:111
+msgid "Add Comments Icon"
+msgstr ""
+
+#: theme-library/customizer/theme-options/post-options.php:131
+#: theme-library/customizer/theme-options/single-post-options.php:72
+msgid "Show / Hide Comments"
+msgstr ""
+
+#: theme-library/customizer/theme-options/post-options.php:151
+msgid "Add Time Icon"
+msgstr ""
+
+#: theme-library/customizer/theme-options/post-options.php:171
+#: theme-library/customizer/theme-options/single-post-options.php:92
+msgid "Show / Hide Time"
+msgstr ""
+
+#: theme-library/customizer/theme-options/post-options.php:191
+#: theme-library/customizer/theme-options/single-post-options.php:112
+msgid "Show / Hide Category"
+msgstr ""
+
+#: theme-library/customizer/theme-options/post-options.php:211
+msgid "Show / Hide Featured Image"
+msgstr ""
+
+#: theme-library/customizer/theme-options/post-options.php:231
+msgid "Show / Hide Post Heading"
+msgstr ""
+
+#: theme-library/customizer/theme-options/post-options.php:251
+msgid "Show / Hide Post Content"
+msgstr ""
+
+#: theme-library/customizer/theme-options/post-options.php:265
+msgid "Archive/Blogs Layout Setting"
+msgstr ""
+
+#: theme-library/customizer/theme-options/post-options.php:282
+msgid "Select Posts Layout"
+msgstr ""
+
+#: theme-library/customizer/theme-options/post-options.php:286
+msgid "Column 1"
+msgstr ""
+
+#: theme-library/customizer/theme-options/post-options.php:287
+msgid "Column 2"
+msgstr ""
+
+#: theme-library/customizer/theme-options/post-options.php:288
+msgid "Column 3"
+msgstr ""
+
+#: theme-library/customizer/theme-options/post-options.php:299
+msgid "Blog Content Alignment"
+msgstr ""
+
+#: theme-library/customizer/theme-options/post-options.php:316
+msgid "Read More Button Settings"
+msgstr ""
+
+#: theme-library/customizer/theme-options/post-options.php:336
+msgid "Show / Hide Read More Button"
+msgstr ""
+
+#: theme-library/customizer/theme-options/post-options.php:355
+msgid "Read More Icon"
+msgstr ""
+
+#: theme-library/customizer/theme-options/post-options.php:372
+msgid "Read More Button Text"
+msgstr ""
+
+#: theme-library/customizer/theme-options/post-options.php:392
+msgid "Featured Image Dimension"
+msgstr ""
+
+#: theme-library/customizer/theme-options/post-options.php:395
+msgid "Default"
+msgstr ""
+
+#: theme-library/customizer/theme-options/post-options.php:396
+msgid "Custom Image Size"
+msgstr ""
+
+#: theme-library/customizer/theme-options/post-options.php:398
+msgid "Note: If you select \"Custom Image Size\", you can set a custom width and height up to 950px."
+msgstr ""
+
+#: theme-library/customizer/theme-options/post-options.php:414
+msgid "Featured Image Custom Width"
+msgstr ""
+
+#: theme-library/customizer/theme-options/post-options.php:418
+#: theme-library/customizer/theme-options/post-options.php:440
+msgid "300"
+msgstr ""
+
+#: theme-library/customizer/theme-options/post-options.php:436
+msgid "Featured Image Custom Height"
+msgstr ""
+
+#: theme-library/customizer/theme-options/post-options.php:456
+msgid "First Cap (First Capital Letter)"
+msgstr ""
+
+#: theme-library/customizer/theme-options/related-post-options.php:12
+msgid "Related Post Options"
+msgstr ""
+
+#: theme-library/customizer/theme-options/related-post-options.php:23
+msgid "Enable / Disable Related Post Section"
+msgstr ""
+
+#: theme-library/customizer/theme-options/related-post-options.php:43
+msgid "Show / Hide Related Posts"
+msgstr ""
+
+#: theme-library/customizer/theme-options/related-post-options.php:62
+msgid "Number of Related Posts to Display"
+msgstr ""
+
+#: theme-library/customizer/theme-options/related-post-options.php:84
+msgid "Related Posts Label"
+msgstr ""
+
+#: theme-library/customizer/theme-options/sidebar-position.php:12
+msgid "Sidebar Position"
+msgstr ""
+
+#: theme-library/customizer/theme-options/sidebar-position.php:24
+msgid "Global Sidebar Position"
+msgstr ""
+
+#: theme-library/customizer/theme-options/sidebar-position.php:41
+#: theme-library/customizer/theme-options/sidebar-position.php:75
+#: theme-library/customizer/theme-options/sidebar-position.php:109
+msgid "Select Sidebar Position"
+msgstr ""
+
+#: theme-library/customizer/theme-options/sidebar-position.php:45
+#: theme-library/customizer/theme-options/sidebar-position.php:79
+#: theme-library/customizer/theme-options/sidebar-position.php:113
+msgid "Right Sidebar"
+msgstr ""
+
+#: theme-library/customizer/theme-options/sidebar-position.php:46
+#: theme-library/customizer/theme-options/sidebar-position.php:80
+#: theme-library/customizer/theme-options/sidebar-position.php:114
+msgid "Left Sidebar"
+msgstr ""
+
+#: theme-library/customizer/theme-options/sidebar-position.php:47
+#: theme-library/customizer/theme-options/sidebar-position.php:81
+#: theme-library/customizer/theme-options/sidebar-position.php:115
+msgid "No Sidebar"
+msgstr ""
+
+#: theme-library/customizer/theme-options/sidebar-position.php:58
+msgid "Post Sidebar Position"
+msgstr ""
+
+#: theme-library/customizer/theme-options/sidebar-position.php:92
+msgid "Page Sidebar Position"
+msgstr ""
+
+#: theme-library/customizer/theme-options/sidebar-position.php:126
+msgid "Sidebar Width Setting"
+msgstr ""
+
+#: theme-library/customizer/theme-options/sidebar-position.php:139
+msgid "Adjust Sidebar Width"
+msgstr ""
+
+#: theme-library/customizer/theme-options/sidebar-position.php:140
+msgid "Adjust the width of the sidebar."
+msgstr ""
+
+#: theme-library/customizer/theme-options/sidebar-position.php:157
+msgid "Sidebar Widgets Heading Font Size "
+msgstr ""
+
+#: theme-library/customizer/theme-options/single-post-options.php:12
+msgid "Single Post Options"
+msgstr ""
+
+#: theme-library/customizer/theme-options/single-post-options.php:132
+msgid "Show / Hide Tag"
+msgstr ""
+
+#: theme-library/customizer/theme-options/single-post-options.php:150
+msgid "Comment Title"
+msgstr ""
+
+#: theme-library/customizer/theme-options/theme-options.php:17
+msgid "General Options"
+msgstr ""
+
+#: theme-library/customizer/theme-options/theme-options.php:27
+msgid "Enable / Disable Site Preloader Section"
+msgstr ""
+
+#: theme-library/customizer/theme-options/theme-options.php:46
+msgid "Enable Preloader"
+msgstr ""
+
+#: theme-library/customizer/theme-options/theme-options.php:65
+msgid "Select Preloader Styles"
+msgstr ""
+
+#: theme-library/customizer/theme-options/theme-options.php:69
+msgid "Style 1"
+msgstr ""
+
+#: theme-library/customizer/theme-options/theme-options.php:70
+msgid "Style 2"
+msgstr ""
+
+#: theme-library/customizer/theme-options/theme-options.php:71
+msgid "Style 3"
+msgstr ""
+
+#: theme-library/customizer/theme-options/theme-options.php:89
+msgid "Preloader Background Color"
+msgstr ""
+
+#: theme-library/customizer/theme-options/theme-options.php:109
+msgid "Preloader Background Image"
+msgstr ""
+
+#: theme-library/customizer/theme-options/theme-options.php:125
+msgid "Enable / Disable Pagination Section"
+msgstr ""
+
+#: theme-library/customizer/theme-options/theme-options.php:144
+msgid "Enable Pagination"
+msgstr ""
+
+#: theme-library/customizer/theme-options/theme-options.php:164
+msgid "Pagination Type"
+msgstr ""
+
+#: theme-library/customizer/theme-options/theme-options.php:170
+msgid "Default (Older/Newer)"
+msgstr ""
+
+#: theme-library/customizer/theme-options/theme-options.php:171
+msgid "Numeric"
+msgstr ""
+
+#: theme-library/customizer/theme-options/theme-options.php:185
+msgid "Enable / Disable Breadcrumb Section"
+msgstr ""
+
+#: theme-library/customizer/theme-options/theme-options.php:205
+msgid "Enable Breadcrumb"
+msgstr ""
+
+#: theme-library/customizer/theme-options/theme-options.php:223
+msgid "Separator"
+msgstr ""
+
+#: theme-library/customizer/theme-options/theme-options.php:239
+msgid "Website Layout Setting"
+msgstr ""
+
+#: theme-library/customizer/theme-options/theme-options.php:258
+msgid "Boxed Layout"
+msgstr ""
+
+#: theme-library/customizer/theme-options/theme-options.php:270
+msgid "Set Width"
+msgstr ""
+
+#: theme-library/customizer/theme-options/theme-options.php:271
+msgid "Adjust the width around the website layout by moving the slider. Use this setting to customize the appearance of your site to fit your design preferences."
+msgstr ""
+
+#: theme-library/customizer/theme-options/theme-options.php:291
+msgid "Header Options"
+msgstr ""
+
+#: theme-library/customizer/theme-options/theme-options.php:311
+msgid "Enable Sticky Header"
+msgstr ""
+
+#: theme-library/customizer/theme-options/theme-options.php:331
+msgid "Enable Topbar"
+msgstr ""
+
+#: theme-library/customizer/theme-options/theme-options.php:349
+msgid "Topbar Discount Text"
+msgstr ""
+
+#: theme-library/customizer/theme-options/theme-options.php:362
+msgid "Menu Settings"
+msgstr ""
+
+#: theme-library/customizer/theme-options/theme-options.php:376
+msgid "Menu Font Size "
+msgstr ""
+
+#: theme-library/customizer/theme-options/theme-options.php:393
+msgid "Menu Text Transform"
+msgstr ""
+
+#: theme-library/customizer/theme-options/theme-options.php:416
+msgid "Menu Color"
+msgstr ""
+
+#: theme-library/customizer/theme-options/theme-options.php:436
+msgid "Sub Menu Color"
+msgstr ""
+
+#: theme-library/customizer/theme-options/theme-options.php:453
+msgid "Site Title Font Size "
+msgstr ""
+
+#: theme-library/customizer/theme-options/theme-options.php:476
+msgid "Enable Site Logo"
+msgstr ""
+
+#: theme-library/customizer/theme-options/theme-options.php:497
+msgid "Enable Site Title"
+msgstr ""
+
+#: theme-library/customizer/theme-options/theme-options.php:518
+msgid "Enable Tagline"
+msgstr ""
+
+#: theme-library/customizer/theme-options/theme-options.php:531
+msgid "Adjust Site Logo Width"
+msgstr ""
+
+#: theme-library/customizer/theme-options/theme-options.php:532
+msgid "This setting controls the Width of Site Logo"
+msgstr ""
+
+#: theme-library/customizer/theme-options/theme-options.php:548
+msgid "Enable / Disable Animation"
+msgstr ""
+
+#: theme-library/customizer/theme-options/theme-options.php:560
+msgid "Enable Animation"
+msgstr ""
+
+#: theme-library/customizer/theme-options/theme-options.php:572
+msgid "Topbar Padding"
+msgstr ""
+
+#: theme-library/customizer/theme-options/typography.php:13
+msgid "Typography Settings"
+msgstr ""
+
+#: theme-library/customizer/theme-options/typography.php:29
+msgid "Site Title Font Family"
+msgstr ""
+
+#: theme-library/customizer/theme-options/typography.php:49
+msgid "Site Description Font Family"
+msgstr ""
+
+#: theme-library/customizer/theme-options/typography.php:69
+msgid "Heading Font Family"
+msgstr ""
+
+#: theme-library/customizer/theme-options/typography.php:89
+msgid "Body Font Family"
+msgstr ""
+
+#: theme-library/customizer/theme-options/woocommerce-setting.php:13
+msgid "WooCommerce Settings"
+msgstr ""
+
+#: theme-library/customizer/theme-options/woocommerce-setting.php:26
+msgid "Products Per Page"
+msgstr ""
+
+#: theme-library/customizer/theme-options/woocommerce-setting.php:41
+msgid "Products Per Row"
+msgstr ""
+
+#: theme-library/customizer/theme-options/woocommerce-setting.php:66
+msgid "Show / Hide Related product"
+msgstr ""
+
+#: theme-library/customizer/theme-options/woocommerce-setting.php:83
+msgid "Product Sale Position"
+msgstr ""
+
+#: theme-library/function-files/class-breadcrumb-trail.php:248
+msgid "Browse:"
+msgstr ""
+
+#: theme-library/function-files/class-breadcrumb-trail.php:249
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr ""
+
+#: theme-library/function-files/class-breadcrumb-trail.php:250
+#: theme-wizard/whizzie.php:549
+msgid "Home"
+msgstr ""
+
+#: theme-library/function-files/class-breadcrumb-trail.php:251
+msgid "404 Not Found"
+msgstr ""
+
+#. Translators: %s is the search query.
+#: theme-library/function-files/class-breadcrumb-trail.php:254
+#, php-format
+msgid "Search results for: %s"
+msgstr ""
+
+#. Translators: %s is the page number.
+#: theme-library/function-files/class-breadcrumb-trail.php:256
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#. Translators: %s is the page number.
+#: theme-library/function-files/class-breadcrumb-trail.php:258
+#, php-format
+msgid "Comment Page %s"
+msgstr ""
+
+#. Translators: Minute archive title. %s is the minute time format.
+#: theme-library/function-files/class-breadcrumb-trail.php:260
+#, php-format
+msgid "Minute %s"
+msgstr ""
+
+#. Translators: Weekly archive title. %s is the week date format.
+#: theme-library/function-files/class-breadcrumb-trail.php:262
+#, php-format
+msgid "Week %s"
+msgstr ""
+
+#: theme-library/function-files/class-breadcrumb-trail.php:747
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+#: theme-library/function-files/class-breadcrumb-trail.php:765
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+#: theme-library/function-files/class-breadcrumb-trail.php:783
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+#: theme-library/function-files/class-breadcrumb-trail.php:800
+#: theme-library/function-files/class-breadcrumb-trail.php:830
+#: theme-library/function-files/class-breadcrumb-trail.php:870
+#: theme-library/function-files/class-breadcrumb-trail.php:898
+#: theme-library/function-files/class-breadcrumb-trail.php:1252
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: theme-library/function-files/class-breadcrumb-trail.php:801
+#: theme-library/function-files/class-breadcrumb-trail.php:871
+#: theme-library/function-files/class-breadcrumb-trail.php:1257
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+#: theme-library/function-files/class-breadcrumb-trail.php:802
+#: theme-library/function-files/class-breadcrumb-trail.php:1262
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+#: theme-library/function-files/class-breadcrumb-trail.php:831
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
+
+#: theme-library/function-files/customizer-settings-functions.php:105
+msgid "Page Not Found"
+msgstr ""
+
+#: theme-library/function-files/customizer-settings-functions.php:107
+msgid "Search Results for: "
+msgstr ""
+
+#: theme-library/function-files/customizer-settings-functions.php:109
+#: theme-wizard/whizzie.php:614
+msgid "Blogs"
+msgstr ""
+
+#: theme-library/function-files/customizer-settings-functions.php:111
+#: theme-wizard/whizzie.php:581
+msgid "Shop"
+msgstr ""
+
+#: theme-library/function-files/template-functions.php:41
+#: theme-library/function-files/template-functions.php:58
+#: theme-library/function-files/template-functions.php:72
+#: theme-library/function-files/template-functions.php:86
+msgid "--Select--"
+msgstr ""
+
+#: theme-library/function-files/template-functions.php:317
+msgid "by"
+msgstr ""
+
+#. translators: %s: WordPress.org URL
+#: theme-library/function-files/template-functions.php:319
+#, php-format
+msgid " | Powered by %s"
+msgstr ""
+
+#. translators: %s: WordPress.org URL
+#: theme-library/function-files/template-functions.php:319
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: theme-library/function-files/template-functions.php:369
+msgid "Welcome to Aster Storefront"
+msgstr ""
+
+#: theme-library/function-files/template-functions.php:370
+msgid "Explore the features of our Pro Theme and take your store journey to the next level."
+msgstr ""
+
+#: theme-library/function-files/template-functions.php:371
+msgid "Get Started With Theme By Clicking On Getting Started."
+msgstr ""
+
+#: theme-library/function-files/template-functions.php:373
+msgid "Get started"
+msgstr ""
+
+#: theme-library/function-files/template-functions.php:374
+msgid "View Demo"
+msgstr ""
+
+#: theme-library/function-files/template-functions.php:375
+msgid "Buy Now"
+msgstr ""
+
+#: theme-library/function-files/template-functions.php:376
+msgid "Get Bundle"
+msgstr ""
+
+#: theme-library/function-files/template-functions.php:441
+msgid "Search Here"
+msgstr ""
+
+#: theme-library/function-files/template-functions.php:465
+msgid "Recent Comments"
+msgstr ""
+
+#. translators: %s: details.
+#: theme-library/function-files/template-functions.php:475
+#, php-format
+msgid "Comment on %s"
+msgstr ""
+
+#: theme-library/function-files/template-functions.php:484
+msgid "Calendar"
+msgstr ""
+
+#: theme-library/function-files/template-functions.php:519
+msgid "Facebook"
+msgstr ""
+
+#: theme-library/function-files/template-functions.php:525
+msgid "Twitter"
+msgstr ""
+
+#: theme-library/function-files/template-functions.php:531
+msgid "Instagram"
+msgstr ""
+
+#: theme-library/function-files/template-functions.php:537
+msgid "Linkedin"
+msgstr ""
+
+#: theme-library/function-files/template-functions.php:543
+msgid "Youtube"
+msgstr ""
+
+#. translators: %s: comment count
+#: theme-library/function-files/template-tags.php:126
+#: theme-library/function-files/template-tags.php:150
+#, php-format
+msgid "%s Comment"
+msgid_plural "%s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: %s: post time
+#: theme-library/function-files/template-tags.php:176
+#: theme-library/function-files/template-tags.php:197
+#, php-format
+msgid "Posted at %s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: theme-library/function-files/template-tags.php:256
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#. translators: 1: list of tags.
+#: theme-library/function-files/template-tags.php:259
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: theme-library/getting-started/getting-started.php:15
+#: theme-library/getting-started/getting-started.php:16
+#: theme-library/getting-started/getting-started.php:92
+msgid "Getting Started"
+msgstr ""
+
+#: theme-library/getting-started/getting-started.php:63
+msgid "Get Premium"
+msgstr ""
+
+#: theme-library/getting-started/getting-started.php:64
+#: theme-library/getting-started/tabs/link-panel.php:24
+msgid "Live Demo"
+msgstr ""
+
+#: theme-library/getting-started/getting-started.php:65
+msgid "Customize Theme"
+msgstr ""
+
+#: theme-library/getting-started/getting-started.php:69
+msgid "Import Theme Demo"
+msgstr ""
+
+#: theme-library/getting-started/getting-started.php:72
+msgid "Visit Your Website"
+msgstr ""
+
+#: theme-library/getting-started/getting-started.php:80
+#: theme-library/getting-started/tabs/link-panel.php:34
+msgid "WP Theme Bundle"
+msgstr ""
+
+#: theme-library/getting-started/getting-started.php:81
+#: theme-library/getting-started/tabs/link-panel.php:35
+msgid "Get access to a collection of premium WordPress themes in one bundle. Enjoy effortless website building, full customization, and dedicated customer support for a smooth, professional web experience."
+msgstr ""
+
+#: theme-library/getting-started/getting-started.php:82
+#: theme-library/getting-started/tabs/link-panel.php:22
+#: theme-library/getting-started/tabs/link-panel.php:36
+msgid "Go Pro"
+msgstr ""
+
+#: theme-library/getting-started/getting-started.php:83
+#: theme-library/getting-started/tabs/link-panel.php:37
+msgid "Exclusive Theme Bundle - $79"
+msgstr ""
+
+#: theme-library/getting-started/getting-started.php:97
+msgid "Free Vs Pro"
+msgstr ""
+
+#: theme-library/getting-started/getting-started.php:110
+#: theme-library/getting-started/getting-started.php:112
+msgid "Review Theme"
+msgstr ""
+
+#: theme-library/getting-started/getting-started.php:116
+#: theme-library/getting-started/getting-started.php:118
+msgid "Contact Support"
+msgstr ""
+
+#: theme-library/getting-started/getting-started.php:122
+#: theme-library/getting-started/getting-started.php:124
+#: theme-library/getting-started/tabs/help-panel.php:13
+msgid "Free Theme Documentation"
+msgstr ""
+
+#: theme-library/getting-started/tabs/free-vs-pro-panel.php:15
+msgid "Theme Feature"
+msgstr ""
+
+#: theme-library/getting-started/tabs/free-vs-pro-panel.php:16
+msgid "Basic Version"
+msgstr ""
+
+#: theme-library/getting-started/tabs/free-vs-pro-panel.php:17
+msgid "Premium Version"
+msgstr ""
+
+#: theme-library/getting-started/tabs/free-vs-pro-panel.php:23
+msgid "Header Background Color"
+msgstr ""
+
+#: theme-library/getting-started/tabs/free-vs-pro-panel.php:28
+msgid "Custom Navigation Logo Or Text"
+msgstr ""
+
+#: theme-library/getting-started/tabs/free-vs-pro-panel.php:33
+msgid "Hide Logo Text"
+msgstr ""
+
+#: theme-library/getting-started/tabs/free-vs-pro-panel.php:39
+msgid "Premium Support"
+msgstr ""
+
+#: theme-library/getting-started/tabs/free-vs-pro-panel.php:44
+msgid "Fully SEO Optimized"
+msgstr ""
+
+#: theme-library/getting-started/tabs/free-vs-pro-panel.php:49
+msgid "Recent Posts Widget"
+msgstr ""
+
+#: theme-library/getting-started/tabs/free-vs-pro-panel.php:55
+msgid "Easy Google Fonts"
+msgstr ""
+
+#: theme-library/getting-started/tabs/free-vs-pro-panel.php:60
+msgid "Pagespeed Plugin"
+msgstr ""
+
+#: theme-library/getting-started/tabs/free-vs-pro-panel.php:65
+msgid "Only Show Header Image On Front Page"
+msgstr ""
+
+#: theme-library/getting-started/tabs/free-vs-pro-panel.php:70
+msgid "Show Header Everywhere"
+msgstr ""
+
+#: theme-library/getting-started/tabs/free-vs-pro-panel.php:75
+msgid "Custom Text On Header Image"
+msgstr ""
+
+#: theme-library/getting-started/tabs/free-vs-pro-panel.php:80
+msgid "Full Width (Hide Sidebar)"
+msgstr ""
+
+#: theme-library/getting-started/tabs/free-vs-pro-panel.php:85
+msgid "Only Show Upper Widgets On Front Page"
+msgstr ""
+
+#: theme-library/getting-started/tabs/free-vs-pro-panel.php:90
+msgid "Replace Copyright Text"
+msgstr ""
+
+#: theme-library/getting-started/tabs/free-vs-pro-panel.php:95
+msgid "Customize Upper Widgets Colors"
+msgstr ""
+
+#: theme-library/getting-started/tabs/free-vs-pro-panel.php:103
+msgid "View Premium Version"
+msgstr ""
+
+#: theme-library/getting-started/tabs/free-vs-pro-panel.php:104
+msgid "Checkout Pro"
+msgstr ""
+
+#: theme-library/getting-started/tabs/help-panel.php:12
+msgid "Quick Setup for Home Page"
+msgstr ""
+
+#: theme-library/getting-started/tabs/help-panel.php:16
+msgid "1) Go to the dashboard. navigate to pages, add a new one, and label it \"home\" or whatever else you like.The page has now been created."
+msgstr ""
+
+#: theme-library/getting-started/tabs/help-panel.php:17
+msgid "2) Go back to the dashboard and then select Settings."
+msgstr ""
+
+#: theme-library/getting-started/tabs/help-panel.php:18
+msgid "3) Then Go to readings in the setting."
+msgstr ""
+
+#: theme-library/getting-started/tabs/help-panel.php:19
+msgid "4) There are 2 options your latest post or static page."
+msgstr ""
+
+#: theme-library/getting-started/tabs/help-panel.php:20
+msgid "5) Select static page and select from the dropdown you wish to use as your home page, save changes."
+msgstr ""
+
+#: theme-library/getting-started/tabs/help-panel.php:21
+msgid "6) You can set the home page in this manner."
+msgstr ""
+
+#: theme-library/getting-started/tabs/help-panel.php:23
+msgid "Setup Banner Section"
+msgstr ""
+
+#: theme-library/getting-started/tabs/help-panel.php:25
+msgid "1) Go to Appereance > then Go to Customizer."
+msgstr ""
+
+#: theme-library/getting-started/tabs/help-panel.php:26
+msgid "2) In Customizer > Go to Front Page Options > Go to Banner Section."
+msgstr ""
+
+#: theme-library/getting-started/tabs/help-panel.php:27
+msgid "3) For Setup Banner Section you have to create post in dashboard first."
+msgstr ""
+
+#: theme-library/getting-started/tabs/help-panel.php:28
+msgid "4) In Banner Section > Enable the Toggle button > and fill the following details."
+msgstr ""
+
+#: theme-library/getting-started/tabs/help-panel.php:29
+msgid "5) In this way you can set Banner Section."
+msgstr ""
+
+#: theme-library/getting-started/tabs/help-panel.php:31
+msgid "Setup Services Section"
+msgstr ""
+
+#: theme-library/getting-started/tabs/help-panel.php:33
+msgid "1) Go to dashboard > Go to plugin > add woocommerce plugin."
+msgstr ""
+
+#: theme-library/getting-started/tabs/help-panel.php:34
+msgid "2) After installing plugin make products in it and give them particular category."
+msgstr ""
+
+#: theme-library/getting-started/tabs/help-panel.php:35
+msgid "3) In Customizer > Go to Front Page Options > Go to Trending Product Section."
+msgstr ""
+
+#: theme-library/getting-started/tabs/help-panel.php:36
+msgid "4) In Trending Product Section > Enable the Toggle button and give heading"
+msgstr ""
+
+#: theme-library/getting-started/tabs/help-panel.php:37
+msgid "5) In this way you can set Trending Product Section."
+msgstr ""
+
+#: theme-library/getting-started/tabs/help-panel.php:41
+msgid "Quick Customizer Settings"
+msgstr ""
+
+#: theme-library/getting-started/tabs/help-panel.php:42
+#: theme-library/getting-started/tabs/help-panel.php:51
+#: theme-library/getting-started/tabs/help-panel.php:59
+#: theme-library/getting-started/tabs/help-panel.php:67
+#: theme-library/getting-started/tabs/help-panel.php:77
+#: theme-library/getting-started/tabs/help-panel.php:85
+#: theme-library/getting-started/tabs/help-panel.php:93
+msgid "Customize"
+msgstr ""
+
+#: theme-library/getting-started/tabs/help-panel.php:50
+msgid "Site Logo"
+msgstr ""
+
+#: theme-library/getting-started/tabs/help-panel.php:58
+msgid "Color Picker"
+msgstr ""
+
+#: theme-library/getting-started/tabs/help-panel.php:76
+msgid "Header Image "
+msgstr ""
+
+#: theme-library/getting-started/tabs/help-panel.php:84
+msgid "Footer Option "
+msgstr ""
+
+#: theme-library/getting-started/tabs/help-panel.php:92
+msgid "Front Page Option"
+msgstr ""
+
+#: theme-library/getting-started/tabs/link-panel.php:15
+msgid "Storefront Wordpress Theme"
+msgstr ""
+
+#: theme-library/getting-started/tabs/link-panel.php:17
+msgid "Price:"
+msgstr ""
+
+#: theme-library/getting-started/tabs/link-panel.php:18
+msgid "$49"
+msgstr ""
+
+#: theme-library/getting-started/tabs/link-panel.php:19
+msgid "$39"
+msgstr ""
+
+#: theme-library/getting-started/tabs/link-panel.php:22
+msgid "Try Premium"
+msgstr ""
+
+#: theme-library/getting-started/tabs/link-panel.php:26
+msgid "Pro Documentation"
+msgstr ""
+
+#: theme-wizard/config.php:36
+#: theme-wizard/whizzie.php:291
+msgid "Welcome to "
+msgstr ""
+
+#: theme-wizard/config.php:38
+#: theme-wizard/whizzie.php:295
+msgid "Start Now"
+msgstr ""
+
+#: theme-wizard/config.php:43
+#: theme-wizard/whizzie.php:300
+msgid "Plugins"
+msgstr ""
+
+#: theme-wizard/config.php:45
+#: theme-wizard/tgm/class-tgm-plugin-activation.php:328
+#: theme-wizard/whizzie.php:304
+msgid "Install Plugins"
+msgstr ""
+
+#: theme-wizard/config.php:50
+#: theme-wizard/whizzie.php:309
+msgid "Demo Importer"
+msgstr ""
+
+#: theme-wizard/config.php:52
+#: theme-wizard/whizzie.php:313
+msgid "Import Demo"
+msgstr ""
+
+#: theme-wizard/config.php:57
+#: theme-wizard/whizzie.php:318
+msgid "All Done"
+msgstr ""
+
+#: theme-wizard/tgm/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: theme-wizard/tgm/class-tgm-plugin-activation.php:330
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: theme-wizard/tgm/class-tgm-plugin-activation.php:332
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: theme-wizard/tgm/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#. translators: 1: plugin name(s).
+#: theme-wizard/tgm/class-tgm-plugin-activation.php:334
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: theme-wizard/tgm/class-tgm-plugin-activation.php:340
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: theme-wizard/tgm/class-tgm-plugin-activation.php:346
+#, php-format
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: theme-wizard/tgm/class-tgm-plugin-activation.php:352
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: theme-wizard/tgm/class-tgm-plugin-activation.php:358
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: theme-wizard/tgm/class-tgm-plugin-activation.php:364
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: theme-wizard/tgm/class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: theme-wizard/tgm/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: theme-wizard/tgm/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: theme-wizard/tgm/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: theme-wizard/tgm/class-tgm-plugin-activation.php:386
+#: theme-wizard/tgm/class-tgm-plugin-activation.php:823
+#: theme-wizard/tgm/class-tgm-plugin-activation.php:2529
+#: theme-wizard/tgm/class-tgm-plugin-activation.php:3576
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: theme-wizard/tgm/class-tgm-plugin-activation.php:387
+#: theme-wizard/tgm/class-tgm-plugin-activation.php:3155
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: theme-wizard/tgm/class-tgm-plugin-activation.php:388
+#: theme-wizard/tgm/class-tgm-plugin-activation.php:2948
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name.
+#: theme-wizard/tgm/class-tgm-plugin-activation.php:390
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: theme-wizard/tgm/class-tgm-plugin-activation.php:392
+#, php-format
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: theme-wizard/tgm/class-tgm-plugin-activation.php:394
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: theme-wizard/tgm/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: theme-wizard/tgm/class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#: theme-wizard/tgm/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: theme-wizard/tgm/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: theme-wizard/tgm/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr ""
+
+#: theme-wizard/tgm/class-tgm-plugin-activation.php:930
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+#: theme-wizard/tgm/class-tgm-plugin-activation.php:930
+#: theme-wizard/tgm/class-tgm-plugin-activation.php:933
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: theme-wizard/tgm/class-tgm-plugin-activation.php:933
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+#: theme-wizard/tgm/class-tgm-plugin-activation.php:1117
+#: theme-wizard/tgm/class-tgm-plugin-activation.php:2944
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. translators: %s: version number
+#: theme-wizard/tgm/class-tgm-plugin-activation.php:1978
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: theme-wizard/tgm/class-tgm-plugin-activation.php:2269
+msgid "Required"
+msgstr ""
+
+#: theme-wizard/tgm/class-tgm-plugin-activation.php:2272
+msgid "Recommended"
+msgstr ""
+
+#: theme-wizard/tgm/class-tgm-plugin-activation.php:2288
+msgid "WordPress Repository"
+msgstr ""
+
+#: theme-wizard/tgm/class-tgm-plugin-activation.php:2291
+msgid "External Source"
+msgstr ""
+
+#: theme-wizard/tgm/class-tgm-plugin-activation.php:2294
+msgid "Pre-Packaged"
+msgstr ""
+
+#: theme-wizard/tgm/class-tgm-plugin-activation.php:2311
+msgid "Not Installed"
+msgstr ""
+
+#: theme-wizard/tgm/class-tgm-plugin-activation.php:2315
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: theme-wizard/tgm/class-tgm-plugin-activation.php:2317
+msgid "Active"
+msgstr ""
+
+#: theme-wizard/tgm/class-tgm-plugin-activation.php:2323
+msgid "Required Update not Available"
+msgstr ""
+
+#: theme-wizard/tgm/class-tgm-plugin-activation.php:2326
+msgid "Requires Update"
+msgstr ""
+
+#: theme-wizard/tgm/class-tgm-plugin-activation.php:2329
+msgid "Update recommended"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+#: theme-wizard/tgm/class-tgm-plugin-activation.php:2338
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: theme-wizard/tgm/class-tgm-plugin-activation.php:2384
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: theme-wizard/tgm/class-tgm-plugin-activation.php:2388
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: theme-wizard/tgm/class-tgm-plugin-activation.php:2392
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: theme-wizard/tgm/class-tgm-plugin-activation.php:2396
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: theme-wizard/tgm/class-tgm-plugin-activation.php:2478
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: theme-wizard/tgm/class-tgm-plugin-activation.php:2486
+msgid "Installed version:"
+msgstr ""
+
+#: theme-wizard/tgm/class-tgm-plugin-activation.php:2494
+msgid "Minimum required version:"
+msgstr ""
+
+#: theme-wizard/tgm/class-tgm-plugin-activation.php:2506
+msgid "Available version:"
+msgstr ""
+
+#: theme-wizard/tgm/class-tgm-plugin-activation.php:2529
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: theme-wizard/tgm/class-tgm-plugin-activation.php:2543
+msgid "Plugin"
+msgstr ""
+
+#: theme-wizard/tgm/class-tgm-plugin-activation.php:2544
+msgid "Source"
+msgstr ""
+
+#: theme-wizard/tgm/class-tgm-plugin-activation.php:2545
+msgid "Type"
+msgstr ""
+
+#: theme-wizard/tgm/class-tgm-plugin-activation.php:2549
+msgid "Version"
+msgstr ""
+
+#: theme-wizard/tgm/class-tgm-plugin-activation.php:2550
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: theme-wizard/tgm/class-tgm-plugin-activation.php:2599
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: theme-wizard/tgm/class-tgm-plugin-activation.php:2604
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: theme-wizard/tgm/class-tgm-plugin-activation.php:2610
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: theme-wizard/tgm/class-tgm-plugin-activation.php:2680
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: theme-wizard/tgm/class-tgm-plugin-activation.php:2713
+msgid "Install"
+msgstr ""
+
+#: theme-wizard/tgm/class-tgm-plugin-activation.php:2719
+msgid "Update"
+msgstr ""
+
+#: theme-wizard/tgm/class-tgm-plugin-activation.php:2722
+msgid "Activate"
+msgstr ""
+
+#: theme-wizard/tgm/class-tgm-plugin-activation.php:2753
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: theme-wizard/tgm/class-tgm-plugin-activation.php:2755
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: theme-wizard/tgm/class-tgm-plugin-activation.php:2796
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: theme-wizard/tgm/class-tgm-plugin-activation.php:2798
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: theme-wizard/tgm/class-tgm-plugin-activation.php:2904
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: theme-wizard/tgm/class-tgm-plugin-activation.php:2930
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: theme-wizard/tgm/class-tgm-plugin-activation.php:3154
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: theme-wizard/tgm/class-tgm-plugin-activation.php:3494
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+#: theme-wizard/tgm/class-tgm-plugin-activation.php:3497
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: theme-wizard/tgm/class-tgm-plugin-activation.php:3499
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: theme-wizard/tgm/class-tgm-plugin-activation.php:3503
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: theme-wizard/tgm/class-tgm-plugin-activation.php:3505
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: theme-wizard/tgm/class-tgm-plugin-activation.php:3505
+#: theme-wizard/tgm/class-tgm-plugin-activation.php:3513
+msgid "Show Details"
+msgstr ""
+
+#. translators: 1: plugin name.
+#: theme-wizard/tgm/class-tgm-plugin-activation.php:3505
+#: theme-wizard/tgm/class-tgm-plugin-activation.php:3513
+msgid "Hide Details"
+msgstr ""
+
+#: theme-wizard/tgm/class-tgm-plugin-activation.php:3506
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: theme-wizard/tgm/class-tgm-plugin-activation.php:3508
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: theme-wizard/tgm/class-tgm-plugin-activation.php:3511
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: theme-wizard/tgm/class-tgm-plugin-activation.php:3513
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: theme-wizard/tgm/class-tgm-plugin-activation.php:3514
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: theme-wizard/tgm/class-tgm-plugin-activation.php:3516
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: theme-wizard/tgm/tgm.php:9
+msgid "WooCommerce"
+msgstr ""
+
+#: theme-wizard/whizzie.php:201
+msgid "More Info"
+msgstr ""
+
+#: theme-wizard/whizzie.php:221
+msgid "Visit Site"
+msgstr ""
+
+#: theme-wizard/whizzie.php:241
+msgid "Theme Setup Wizard"
+msgstr ""
+
+#: theme-wizard/whizzie.php:349
+msgid "Thank you for choosing our theme! We are excited to help you get started with your new website."
+msgstr ""
+
+#: theme-wizard/whizzie.php:350
+msgid "This section will guide you through setting up and customizing the theme. You can follow the steps to import demo content or adjust settings at any time to make the website look and work the way you want."
+msgstr ""
+
+#: theme-wizard/whizzie.php:365
+msgid "Additional plugins always make your website exceptional. Install these plugins by clicking the install button. You may also deactivate them from the dashboard."
+msgstr ""
+
+#: theme-wizard/whizzie.php:394
+msgid "To get started, use the button below to import demo content and add widgets to your site. After installation, you can manage settings and customize your site using the Customizer. Enjoy your new theme!"
+msgstr ""
+
+#: theme-wizard/whizzie.php:403
+msgid "Setup Navigation Menu"
+msgstr ""
+
+#: theme-wizard/whizzie.php:404
+msgid "Follow the following Steps to Setup Menu"
+msgstr ""
+
+#: theme-wizard/whizzie.php:405
+msgid "A) Create Pages"
+msgstr ""
+
+#: theme-wizard/whizzie.php:407
+msgid "Go to Dashboard >> Pages >> Add New"
+msgstr ""
+
+#: theme-wizard/whizzie.php:408
+msgid "Enter Page Details And Save Changes"
+msgstr ""
+
+#: theme-wizard/whizzie.php:410
+msgid "B) Add Pages To Menu"
+msgstr ""
+
+#: theme-wizard/whizzie.php:412
+msgid "Go to Dashboard >> Appearance >> Menu"
+msgstr ""
+
+#: theme-wizard/whizzie.php:413
+msgid "Click On The Create Menu Option"
+msgstr ""
+
+#: theme-wizard/whizzie.php:414
+msgid "Select The Pages And Click On The Add to Menu Button"
+msgstr ""
+
+#: theme-wizard/whizzie.php:415
+msgid "Select Primary Menu From The Menu Setting"
+msgstr ""
+
+#: theme-wizard/whizzie.php:416
+msgid "Click On The Save Menu Button"
+msgstr ""
+
+#: theme-wizard/whizzie.php:420
+msgid "Setup Footer Widgets"
+msgstr ""
+
+#: theme-wizard/whizzie.php:421
+msgid "Follow the following Steps to Setup Footer Widgets"
+msgstr ""
+
+#: theme-wizard/whizzie.php:423
+msgid "Go to Dashboard >> Appearance >> Widgets"
+msgstr ""
+
+#: theme-wizard/whizzie.php:424
+msgid "Drag And Add The Widgets In The Footer Columns"
+msgstr ""
+
+#: theme-wizard/whizzie.php:488
+msgid "Activating Plugin"
+msgstr ""
+
+#: theme-wizard/whizzie.php:503
+msgid "Updating Plugin"
+msgstr ""
+
+#: theme-wizard/whizzie.php:518
+msgid "Installing Plugin"
+msgstr ""
+
+#: theme-wizard/whizzie.php:527
+msgid "Success"
+msgstr ""
+
+#: theme-wizard/whizzie.php:559
+msgid "Tops"
+msgstr ""
+
+#: theme-wizard/whizzie.php:570
+msgid "Bottoms"
+msgstr ""
+
+#: theme-wizard/whizzie.php:592
+msgid "Outwear"
+msgstr ""
+
+#: theme-wizard/whizzie.php:603
+msgid "Accessories"
+msgstr ""

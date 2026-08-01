@@ -1,0 +1,5 @@
+2026-08-01T17:41:44+00:00 INFO Seeded outlet stock from WooCommerce _stock on fresh install. {"outlet_id":466,"rows":0}
+2026-08-01T17:42:18+00:00 INFO Outlet stock backfill batch processed. {"last_id":97,"migrated_rows":0}
+2026-08-01T17:42:23+00:00 INFO Outlet stock backfill complete.
+2026-08-01T17:42:23+00:00 INFO Money cents backfill complete.
+2026-08-01T17:49:35+00:00 INFO Scheduled deferred sync regen (action scheduler). {"reason":"plugin_deactivatedoliver-pos"}
