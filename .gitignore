@@ -1,0 +1,47 @@
+
+# Node / JS
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Composer / PHP dependencies
+vendor/
+composer.lock
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# WordPress runtime
+wp-content/uploads/
+wp-content/upgrade/
+wp-content/cache/
+wp-content/backups/
+wp-content/backup-db/
+wp-content/wflogs/
+
+# Build / distribution
+dist/
+build/
+.cache/
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Editor directories and files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*~
+
+# Docker local override
+docker-compose.override.yml
+.docker/

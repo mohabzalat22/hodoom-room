@@ -1,0 +1,50 @@
+
+# Ignore Git metadata and local ignore files
+.git
+.gitignore
+
+# Node dependencies and package manager artifacts
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# PHP / Composer
+vendor/
+composer.lock
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs, caches, temp
+logs/
+*.log
+tmp/
+cache/
+coverage/
+
+# Test artifacts
+tests/
+phpunit.xml
+
+# WordPress runtime directories not needed in build context
+wp-content/uploads/
+wp-content/upgrade/
+wp-content/cache/
+wp-content/backups/
+
+# Docker local overrides
+docker-compose.override.yml
+.docker/
