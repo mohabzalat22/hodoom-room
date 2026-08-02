@@ -43,6 +43,31 @@ if (
 	$_SERVER['HTTPS'] = 'on';
 }
 
+if ( ! defined( 'WP_HOME' ) ) {
+	$wordpress_home = getenv( 'WORDPRESS_HOME' );
+
+	if ( ! $wordpress_home && ! empty( $_SERVER['HTTP_HOST'] ) ) {
+		$scheme         = ! empty( $_SERVER['HTTPS'] ) && 'on' === $_SERVER['HTTPS'] ? 'https' : 'http';
+		$wordpress_home = $scheme . '://' . $_SERVER['HTTP_HOST'];
+	}
+
+	if ( $wordpress_home ) {
+		define( 'WP_HOME', rtrim( $wordpress_home, '/' ) );
+	}
+}
+
+if ( ! defined( 'WP_SITEURL' ) ) {
+	$wordpress_siteurl = getenv( 'WORDPRESS_SITEURL' );
+
+	if ( ! $wordpress_siteurl && defined( 'WP_HOME' ) ) {
+		$wordpress_siteurl = WP_HOME;
+	}
+
+	if ( $wordpress_siteurl ) {
+		define( 'WP_SITEURL', rtrim( $wordpress_siteurl, '/' ) );
+	}
+}
+
 /**#@+
  * Authentication unique keys and salts.
  *
